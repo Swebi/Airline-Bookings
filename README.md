@@ -14,7 +14,7 @@ Setup:
 Make sure to run SQL_Setup.py before first usage
 Change the database username (root) & password currently set as 'suhayb' according to your sql server
 
-Default login username and password is 'pass'
+Default login username & password is 'pass'
 
 
 
