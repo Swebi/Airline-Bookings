@@ -3,11 +3,11 @@ A GUI Based Python+SQL project which replicates an airline booking platform. Mad
 
 **Libraries Used:**
 
-tkinter
-customtkinter
-tkintermapview
-geopy
-mysql-connector-python
+tkinter,
+customtkinter,
+tkintermapview,
+geopy,
+mysql-connector-python,
 
 **Setup:**
 
