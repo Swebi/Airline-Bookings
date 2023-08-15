@@ -17,6 +17,7 @@ Change the database username (root) & password currently set as 'suhayb' accordi
 Default login username & password is 'pass'
 
 
+Images:
 
 
 ![image](https://github.com/Swebi/Airline-Bookings/assets/82446436/ab2b52e0-4816-4808-875a-606868c691ea)
